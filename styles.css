@@ -1,0 +1,39 @@
+.logo {
+    text-align: center;
+    margin-top: 150px;
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+
+form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.search {
+    top: 2px;
+    left: 5px;
+}
+
+input {
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: 40px;
+    border-radius: 50px;
+    border: solid 2px;
+    border-color: gray;
+    padding-left: 55px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0b/Search_Icon.svg");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 150px;
+    width: 450px;
+    height: 155px;
+}
